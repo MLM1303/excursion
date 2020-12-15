@@ -10,6 +10,10 @@ html {
     color: white;
 }
 
+video {
+    object-fit: contain;
+}
+
 a {
     color: aquamarine;
     font-size: 16px;
